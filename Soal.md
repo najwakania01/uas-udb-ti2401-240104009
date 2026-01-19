@@ -92,8 +92,10 @@
 
 ### 5. Deploy ke Google Cloud Run (20 Point)
 
+> 📦 **Gunakan repository `uas-udb-ti2401-<nim>` yang sudah dibuat dan disetup pada langkah 1-4**
+
 **Ketentuan:**
-- Aplikasi harus berjalan dengan Cloud Run Google
+- Aplikasi dari repository `uas-udb-ti2401-<nim>` harus berjalan dengan Cloud Run Google
 - Aplikasi harus dapat diakses dari internet
 
 **Detail Project:**
@@ -117,8 +119,10 @@
 
 ### 6. CI/CD Pipeline Branch Main (20 Point)
 
+> 📦 **Gunakan repository `uas-udb-ti2401-<nim>` yang sudah dibuat dan disetup pada langkah 1-4**
+
 **Ketentuan:**
-- Buat CI/CD pipeline dengan GitHub Actions / Push event Cloud Run Google
+- Buat CI/CD pipeline pada repository `uas-udb-ti2401-<nim>` dengan GitHub Actions / Push event Cloud Run Google
 - Pipeline berjalan pada push event di branch `main`
 
 **Validasi:**
@@ -135,8 +139,10 @@
 
 ### 7. CI/CD Pipeline Branch Dev (20 Point)
 
+> 📦 **Gunakan repository `uas-udb-ti2401-<nim>` yang sudah dibuat dan disetup pada langkah 1-4**
+
 **Ketentuan:**
-- Buat CI/CD pipeline dengan GitHub Actions / Push event Cloud Run Google
+- Buat CI/CD pipeline pada repository `uas-udb-ti2401-<nim>` dengan GitHub Actions / Push event Cloud Run Google
 - Pipeline berjalan pada push event di branch `dev`
 
 **Validasi:**
